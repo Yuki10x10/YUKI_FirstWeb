@@ -92,7 +92,7 @@ overflow: hidden;
 .content{
     width: 900px;
     padding: 20px 30px;
-    margin: 0 auto;
+    margin: 0 auto; 
 }
 .content h1{
   text-align: center;
