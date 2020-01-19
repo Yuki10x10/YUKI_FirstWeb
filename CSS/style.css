@@ -26,6 +26,7 @@ nav {
     height: 100px;
     background-color: rgba(255, 255, 255, 0.8);
     z-index: 1;
+    margin: 0 auto;
 }
 
 nav ol li {
@@ -104,6 +105,7 @@ overflow: hidden;
 }
 
 .red-box{
+    margin: 0 auto;
     background-color: #9F0403;
     color: white;
 }
@@ -114,6 +116,7 @@ overflow: hidden;
 
 /* 頁尾 */
 footer{
+    margin: 0 auto;
     height: 100px;
     /* 內容只有一行文字可以使用 行高=高度 垂直置中 */
     line-height: 100px;
