@@ -73,16 +73,36 @@ nav ol li a:hover {
     margin-top: -100px;
 }
 
+/* 內容 */
 .content{
     width: 900px;
     padding: 20px 30px;
     margin: 0 auto;
 }
-h1{
+.content h1{
   text-align: center;
   color: #9F0403;  
 }
-p{
+.content p{
     line-height: 1.8;
     padding: 20px 0px;
+}
+
+.red-box{
+    background-color: #9F0403;
+    color: white;
+}
+
+.red-box h1{
+    color: white;
+}
+
+/* 頁尾 */
+footer{
+    height: 100px;
+    /* 內容只有一行文字可以使用 行高=高度 垂直置中 */
+    line-height: 100px;
+    background-color: #9F0403;
+    color: white;
+    text-align: center;
 }
